@@ -21,5 +21,5 @@
 	
 ####Dependencies
 <ol>
-	<li>unning the run_analysis.R file will help you to install the dependencies automatically. It depends on "plyr" library.</li>
+	<li>Running the run_analysis.R file will help you to install the dependencies automatically. It depends on "plyr" library.</li>
 </ol>
